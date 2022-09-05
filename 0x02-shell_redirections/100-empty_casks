@@ -1,3 +1,2 @@
-Bytes
 #!/bin/bash
-find . -empty -printf '%f\n'
+find . -empty -printf "%f\n"
